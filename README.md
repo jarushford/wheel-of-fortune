@@ -8,7 +8,17 @@ Either visit [this page](https://b3an5.github.io/wheel-of-fortune/) to see the l
 
 ### or
 
-Run `git clone https://github.com/b3an5/wheel-of-fortune.git` in your terminal to copy locally
+Run the following to run locally:
+
+```
+git clone https://github.com/b3an5/wheel-of-fortune.git
+
+cd wheel-of-fortune
+
+npm install
+
+open index.html
+```
 
 
 ![alt text](pics/game-pic.png)
@@ -27,5 +37,4 @@ Run `git clone https://github.com/b3an5/wheel-of-fortune.git` in your terminal t
   - https://github.com/b3an5
 - Jamie Rushford
   - https://github.com/jarushford
-- Link to [pair DTR](https://gist.github.com/jarushford/fa3d748f09c5e7d82bd9ec605d16f533)
 - Link to [original project spec](http://frontend.turing.io/projects/wheel-of-fortune.html)
